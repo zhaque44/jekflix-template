@@ -1,15 +1,15 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: Zubair Haque's blog
+email: zhaque44@gmail.com
+description: Development Engineer In Test with a passion for Quality 
 baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
 url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: zhaque44
+user_description:  Development Engineer In Test with a passion for Quality 
+disqus_username: zhaque
 
 # Social Media
 # Remove the item if you don't need it
